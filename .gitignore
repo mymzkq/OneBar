@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+build/
+dist/
+*.spec
+.pytest_cache/
+logs/
+*.log
+settings.json
+clipboard_history.json
+file_hub.json
+favorites.json
+search_cache.json
+icon_cache/
+media_cache/
+*.zip
+*.7z
+*.rar
+backup/
+OneBar_*_backup/
+
+# Local OneBar runtime data is stored in %APPDATA%\OneBar.
